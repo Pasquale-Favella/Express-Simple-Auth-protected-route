@@ -1,0 +1,4 @@
+/node_modules
+/espenses.db
+/users.db
+/.env
